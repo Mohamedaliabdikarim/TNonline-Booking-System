@@ -36,16 +36,11 @@ A complete cross-platform booking and analytics system developed during my role 
 - **Quality:** Defined acceptance criteria and integrated quality gates into the CI pipeline
 - **Deployment:** Containerized the application with Docker and deployed to Azure
 
-## 📸 Screenshots
-
-*Screenshots will be added here once approved by Capplon AB.*
-
 ## 🔗 About
 
 - **Role:** System Developer at Capplon AB, Värnamo, Sweden
 - **Period:** June 2025 – January 2026
-- **Team:** Small development team
-- **My role:** Full ownership of architecture and implementation
+- **Team:** Small development team with full ownership of architecture and implementation
 
 ---
 
